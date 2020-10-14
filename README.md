@@ -22,4 +22,4 @@ p.s. be careful when setting the interval time, too often and you may risk being
 If you are having issues with Grafana and vendor/service provider logo's assuming you may need to follow the below link and make a minor modification to ```grafana.ini```.
 https://grafana.com/docs/grafana/latest/administration/configuration/#disable_sanitize_html
 
-![Example Screenshot](https://raw.githubusercontent.com/risb0r/telegraf-speedtest/master/screenshot.png)
+![Example Screenshot](screenshot.png)
